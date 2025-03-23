@@ -1,0 +1,10 @@
+# This is a comment
+
+# Code owners for all files in the repository
+
+- @Lasel373
+
+# Code owners for specific directories or files
+
+/docs/ @docs-team
+src/ @dev-team
