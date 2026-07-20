@@ -1,0 +1,26 @@
+**Naughtifier – Help**
+
+---
+
+**🔹 Prefix Commands** (type in chat):
+• `!hello`           – Replies with "Hello!"
+• `!guildid`         – Shows this server's ID
+• `!list_commands`   – Lists all registered slash commands
+• `!sync`            – (Owner only) Forces slash command sync
+
+---
+
+**🔹 Slash Commands** (type `/` and pick from list):
+• `/help`            – Shows this help message
+• `/events`          – Lists all available events
+• `/hello`           – Says hello via slash
+• `/cmd <command>`   – Generic dispatcher
+    Sub‑commands: `hello`, `events`, `help`
+
+---
+
+**💡 Quick Tips:**
+• Prefix commands work in servers and DMs.
+• Slash commands are global (servers, DMs, groups).
+• Use `/cmd help` to see all available sub‑commands.
+• For best experience, use slash commands – they have autocomplete!
